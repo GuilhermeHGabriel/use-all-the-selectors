@@ -1,9 +1,9 @@
 body{
-background-color: ##fdf6e3;
+background-color: #fdf6e3;
 
 }
 header{
-  font-size: 1.5;
+  font-size: 1.5rem;
 }
 footer{
   font-size: 1.5;
@@ -28,13 +28,13 @@ nav ul{
 
 .nav a{
 .wrapper'.dfn'
-  background-color: #b58900
+  background-color: #b58900;
 }
 .li{
-  color: #fff
+  color: #fff;
 }
 a{
-  background-color: #719e07;
+  background-color: #719e47;
 
 }
 link{
@@ -46,13 +46,13 @@ li ol{
   color: #2aa198;
 }
 li types{
-  background-color: #657ba3
+  background-color: #657ba3;
 }
 
 li types{
-  background-color: #586e75
+  background-color: #586e75;
 }
 
 li Types{
-  background-color: #d04b16
+  background-color: #d04b16;
 }
